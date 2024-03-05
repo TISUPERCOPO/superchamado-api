@@ -1,0 +1,2 @@
+ALTER TABLE chamado
+ADD COLUMN urgencia VARCHAR(255);
